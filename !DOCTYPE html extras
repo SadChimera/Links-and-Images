@@ -5,5 +5,10 @@
     </head>
     <body>
         <h1>Extras</h1>
+        <h2>Character sets</h2>
+        <p>Use UTF-8 for Turkish</p>
+        <ol>
+            <li>bir</li>
+            <li>iki</li>
     </body>
 </html>
