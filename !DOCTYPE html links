@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"
+    <head>
+        <title>Links</title>
+    </head>
+<body>
+        <h1>Images</h1>
+    
+    <p>This is an exmaple of links and <a>images</a>.</p>
+    <p>This example is about links <a href='images.html'>images</a>.</p>
+    <p>This particular page is about links! There are three different kind of links:</p>
+    <ul>
+        <li>"Root Relative"</li>
+        <li>"Relative"</li>
+        <li>"Aboslute"</li>
+    </ul>
+<li>Absolute links, like to
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">Mozilla Developer Network</a>, which is a very good resource for web developers.</li>
+
+<li>Relative links, like to our <a href='misc/extras.html'>extras page</a>.</li>
+<p>This page is about the miscellaneous HTML things, but you may also be interested in <a href='links.html'>links</a> or <a href='images.html'>images</a>.</p>
+<p>This page has additional miscellaneous things in HTML, so you might be interested by <a href='../links.html'>links</a> or <a href='../images.html'>images</a>.</p>
+
+<li>Absolute links, like to
+    <a href='https://developer.mozilla.org/en-US/docs/Web/HTML'
+    target='_blank'>Mozilla Developer Network</a>, a very good resource for web developers.</li>
+</body>
+</html>
